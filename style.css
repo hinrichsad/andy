@@ -1,0 +1,88 @@
+body{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+ul.a {
+    list-style-type: square;
+}
+ul.b {
+    list-style-type: none;
+}
+table, tr, th{
+    outline: 1px solid black;
+    border-collapse: collapse;
+}
+tr{
+    text-align: center;
+}
+.pbj_head{
+    background: cornsilk;
+    border: 1px solid black;
+    border-top-right-radius: 20px;
+    border-top-left-radius: 20px;
+    width: 40%;
+    height: fit-content;
+    float: right;
+    word-wrap: inherit;
+    overflow: hidden;
+    margin-right: 4%;
+    text-align: center;
+    font-size: x-large;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-weight: bolder;
+}
+.pbj{
+    background: cornflowerblue;
+    border: 1px solid black;
+    border-bottom-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    width: 40%;
+    height: fit-content;
+    float: right;
+    word-wrap: inherit;
+    overflow: hidden;
+    margin-right: 4%;
+    
+}
+img{
+    float: left;
+    overflow: hidden;
+    padding-bottom: 2%;
+    
+}
+h1{
+    text-align: center;
+    padding: 5%;
+    background-image: linear-gradient(black, white);
+    color: whitesmoke;
+    margin: 0;
+
+}
+h2{
+    text-align: center;
+    padding: 5%;
+    background-image: linear-gradient(white, black);
+    color: whitesmoke;
+    margin: 0;
+
+}
+.list1{
+    float: left;
+    padding-right: 65%;
+}
+
+.vid{
+    text-align: center;
+    display: block;
+    margin: 0 auto;
+}
+table, td{
+    width: 500px;
+    border: black 1px solid;
+}
+.note{
+    font-weight: bold;
+    font-size: x-large;
+    text-align: center;
+    padding-bottom: 10px;
+}
