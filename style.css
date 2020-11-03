@@ -24,7 +24,7 @@ tr{
     float: right;
     word-wrap: inherit;
     overflow: hidden;
-    margin-right: 4%;
+    margin-right: 7%;
     text-align: center;
     font-size: x-large;
     padding-top: 20px;
@@ -41,13 +41,14 @@ tr{
     float: right;
     word-wrap: inherit;
     overflow: hidden;
-    margin-right: 4%;
+    margin-right: 7%;
     
 }
 img{
     float: left;
     overflow: hidden;
     padding-bottom: 2%;
+    margin-left: 10%;
     
 }
 h1{
@@ -69,6 +70,7 @@ h2{
 .list1{
     float: left;
     padding-right: 65%;
+    margin-left: 12%;
 }
 
 .vid{
@@ -85,4 +87,10 @@ table, td{
     font-size: x-large;
     text-align: center;
     padding-bottom: 10px;
+}
+.warning{
+    float: right;
+    font-size: 9px;
+    font-weight: bolder;
+    margin-right: 7%;
 }
